@@ -1,0 +1,69 @@
+@media screen and (max-width: 1480px) {
+  .main--img {
+    height: 120px !important;
+  }
+  .input--wrapper {
+    min-width: 400px;
+  }
+  .contact {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 1240px) {
+  .aside--master {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .grociers--nav {
+      display: inline-flex;
+    }
+    h2 {
+      font-size: 16px;
+    }
+    .grociers--emblem {
+      width: 30px;
+    }
+  }
+  .master--header {
+    h1 {
+      font-size: 20px;
+    }
+
+    .emblem--left {
+      width: 40px;
+      height: auto;
+      padding: 0 6px;
+    }
+
+    .contact {
+      display: none;
+    }
+
+    .emblem--right {
+      width: 30px;
+      padding: 0 5px;
+    }
+  }
+  .main--img {
+    height: 100px !important;
+  }
+
+  .footer--container {
+    li,
+    .number--contact,
+    .info--contact {
+      padding-bottom: 5px;
+    }
+
+    .footer--contact {
+      display: flex;
+      font-size: 12px;
+    }
+
+    .footer--info--li--main {
+      font-size: 14px;
+    }
+  }
+}

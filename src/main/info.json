@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "img": "https://m.media-amazon.com/images/I/513+Nt9vlhL._AC_UY218_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"231",
+      "price" :"12.34$",
+      "alt": "Ulefone Note 8P, Mobile Phone SIM Free Unlocked"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71q8I4JvE3L._AC_UY218_.jpg",
+      "rating": { "backgroundPosition": "-84px -28px" },
+      "reviews" :"4324",
+      "price" :"45.1$",
+      "alt": "Mobile Phone, Blackview A60 "
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/514+85es+eL._AC_UY218_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"123",
+      "price" :"232$",
+      "alt": "Rugged Phone, Blackview BV5500 Rugged Smartphone Unlocked"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/61Q7XQPnqCL._AC_UY218_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"214",
+      "price" :"1323$",
+      "alt": "ASUS VivoBook with Microsoft Office 365 - L410MA 14 inch Full HD Metal Laptop (Intel Pentium N5030, 4GB RAM, 64GB eMMC, Windows 10 S) - Includes LED NumberPad, Blue"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/611DSVE0eML._AC_UY218_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"213",
+      "price" :"1.1$",
+      "alt": "Jumper Laptop 13.3 inch with Microsoft Office 365 FHD Computer 4GB 64GB Windows 10 , USB 3.0, Dual Band Wifi, support 128GB Micro SD and 1TB SSD Expansion"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71rbxP5uVyL._AC_UY218_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"3213",
+      "price" :"879$",
+      "alt": "Jumper Laptop 13.3 inch with Microsoft Office 365 FHD Computer 4GB 64GB Windows 10 , USB 3.0, Dual Band Wifi, support 128GB Micro SD and 1TB SSD Expansion"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/815biwYXgcL._AC_UL320_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"43",
+      "price" :"234254$",
+      "alt": "Good Good Sweet Like Sugar Household Sweetener with Stevia, 450 g, GG102"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81uKGjaotLL._AC_UL320_.jpg",
+      "rating": { "backgroundPosition": "-84px -8px" },
+      "reviews" :"23",
+      "price" :"213.4$",
+      "alt": "White Vinegar for Cleaning with The Fresh Smell of Lemon - Single 5l PET"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/81V1xqjSkAL._AC_UL320_.jpg",
+      "rating": { "backgroundPosition": "-84px -48px" },
+      "reviews" :"12",
+      "price" :"12312$",
+      "alt": "Smelli Gelli Baff Tutti Frutti, 1 Bath Pack, Turn water into colourful goo, Children's Sensory & Bath Toy, Certified Biodegradable Toy"
+    },
+    {
+      "img": "https://m.media-amazon.com/images/I/71PqPzxilML._AC_UL320_.jpg",
+      "rating": { "backgroundPosition": "-181px -56px" },
+      "reviews" :"4234",
+      "price" :"12.4$",
+      "alt": "Childs Farm Bubble Bath, Organic Tangerine, 250 ml, Pack of 6"
+    }
+  ]
+}

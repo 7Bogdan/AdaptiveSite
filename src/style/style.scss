@@ -1,0 +1,27 @@
+@import "./header/masterHead";
+@import "./aside/masterAside";
+@import "./footer/masterFooter";
+@import "./grid/grid";
+@import "./media/media";
+@import "./main/masterMain";
+@import "./base";
+
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-family: "Roboto", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+a {
+  letter-spacing: 0.15em;
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: inherit;
+}

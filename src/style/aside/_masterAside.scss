@@ -1,0 +1,42 @@
+.aside--master {
+  background: var(--background-aside);
+  color: var(--text-aside);
+  height: 100%;
+  width: 100%;
+  grid-area: Aside;
+  h2 {
+    white-space: pre;
+    margin: 0;
+    padding: 10px;
+    letter-spacing: 0.1em;
+    cursor: context-menu;
+    border: 2px solid var(--border-h2-aside);
+  }
+}
+
+.grociers--nav{
+  min-width: 200px;
+}
+
+.grociers--item {
+  padding: 10px;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+
+.grociers--item:hover {
+  color: var(--text-aside-hover);
+  background: interim;
+  border: 2px solid var(--border-grociers);
+}
+
+.grociers--emblem {
+  width: 40px;
+  height: auto;
+  padding-right: 12px;
+}
+
+.grociers--span {
+  align-items: center;
+  display: flex;
+}

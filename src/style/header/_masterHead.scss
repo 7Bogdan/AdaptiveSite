@@ -1,0 +1,85 @@
+@import "./input";
+
+.master--header {
+  background-image: var(--background-header);
+  width: 100%;
+  grid-area: Header;
+  margin: auto;
+}
+
+.header--leftsection {
+  color: var(--text-heading);
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header--mainsection {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.header--rightsection {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header--svg {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.header--svg:hover {
+  .emblem--right {
+    width: 44px;
+  }
+}
+
+.header--span {
+  white-space: pre;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.emblem--left {
+  width: 55px;
+  height: auto;
+  padding: 0 12px;
+}
+
+.emblem--right {
+  width: 40px;
+  padding: 0 10px;
+}
+
+.contact,
+.footer--contact {
+  grid-area: Contact;
+  color: var(--text-info);
+  display: flex;
+  align-items: center;
+  cursor: context-menu;
+}
+
+.text--contact {
+  padding: 15px 0 15px 15px;
+  letter-spacing: 0.1em;
+}
+
+.emblem--contact {
+  width: 30px;
+  padding: 0 10px;
+}
+
+.number--contact,
+.info--contact {
+  padding-bottom: 5px;
+}
