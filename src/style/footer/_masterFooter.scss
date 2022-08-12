@@ -1,0 +1,38 @@
+.footer--master {
+  background: var(--background-footer);
+  grid-area: Footer;
+  text-align: center;
+}
+
+.footer--info {
+  color: var(--text-info);
+  list-style-type: none;
+  text-align: initial;
+  height: auto;
+  justify-content: space-evenly;
+  cursor: context-menu;
+}
+
+.footer--info--li--main{
+  padding-bottom: 10px;
+  font-size: 16px;
+}
+
+.footer--info--li {
+  padding-bottom: 3px;
+  cursor: pointer;
+}
+
+.footer--info--li:hover{
+  color: var(--text-aside-hover);
+}
+
+.footer--container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer--contact{
+      display: none;
+}

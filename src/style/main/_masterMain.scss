@@ -1,0 +1,61 @@
+.master--main {
+  grid-area: Main;
+}
+
+.main--item {
+  text-align: center;
+  margin: 10px;
+  border: 2px solid transparent;
+  border-bottom: 2px solid;
+  font-weight: 500;
+}
+
+.main--item:hover {
+  border: 2px solid var(--border-item-hover);
+}
+
+.main--img {
+  display: block;
+  margin: auto;
+  object-fit: contain;
+  padding: 10px 0;
+  height: 150px;
+  width: auto;
+}
+
+.main--rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main--rating:hover {
+  text-decoration: underline;
+}
+.main--reviews {
+  margin: 0 10px;
+  font-size: 12px;
+}
+
+.main--star {
+  position: relative;
+  display: inline-block;
+  width: 80px;
+  height: 18px;
+  background-image: url("https://m.media-amazon.com/images/G/01/AUIClients/AmazonUIIcon-experiment_2020_1x-98977b23b0fc9845c66d40bf614bec9905194c21._V2_.png");
+  background-size: 512px 256px;
+  background-repeat: no-repeat;
+}
+
+.main--price {
+  display: block;
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.main--short--desription {
+  margin: 10px;
+  display: block;
+  text-align: left;
+  letter-spacing: 0.05em;
+}

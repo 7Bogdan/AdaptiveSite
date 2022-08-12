@@ -1,0 +1,16 @@
+html[data-theme="light"] {
+  --background-header: linear-gradient(0deg, #063773, #00408f, #0455ba);
+  --background-aside: linear-gradient(0deg, #0455ba, #00408f, #063773);
+  --background-footer: linear-gradient(0deg, #063773, #00408f, #0455ba);
+  --border-grociers:#002656;
+  --border-item-hover:#536d93;
+  --text-heading: #999da2;
+  --text-searh: #1c1c1c;
+  --text-info: #93b4cd;
+  --text-aside: #adb8c8;
+  --text-aside-hover: #707e91;
+  --input-focus: #002b60;
+  --input-focus-background: #83a2c0;
+  --input-border: #edeff1;
+  --item-border: #ddd
+}
